@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a815bca8f7992255c815521175f608ed",
+    "revision": "1daedb3a3fad8d741710c7047807764c",
     "url": "/rustlove/index.html"
   },
   {
-    "revision": "06d0a4d296514f1619d8",
+    "revision": "503dd7c06fd2caa273bb",
     "url": "/rustlove/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rustlove/static/js/2.ab665e5a.chunk.js"
   },
   {
-    "revision": "06d0a4d296514f1619d8",
-    "url": "/rustlove/static/js/main.4fa539aa.chunk.js"
+    "revision": "503dd7c06fd2caa273bb",
+    "url": "/rustlove/static/js/main.5408bc40.chunk.js"
   },
   {
     "revision": "27ae3eae7f373fc923fc",
     "url": "/rustlove/static/js/runtime-main.2290cf33.js"
   },
   {
-    "revision": "25bf045ca257e971124f3997d89f321c",
-    "url": "/rustlove/static/media/logo.25bf045c.svg"
+    "revision": "b0700f7ff15ecdd596e72fe5a1e46378",
+    "url": "/rustlove/static/media/ferret.b0700f7f.png"
   }
 ]);

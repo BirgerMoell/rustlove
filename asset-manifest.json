@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/rustlove/static/css/main.b100e6da.chunk.css",
-    "main.js": "/rustlove/static/js/main.4fa539aa.chunk.js",
-    "main.js.map": "/rustlove/static/js/main.4fa539aa.chunk.js.map",
+    "main.js": "/rustlove/static/js/main.5408bc40.chunk.js",
+    "main.js.map": "/rustlove/static/js/main.5408bc40.chunk.js.map",
     "runtime-main.js": "/rustlove/static/js/runtime-main.2290cf33.js",
     "runtime-main.js.map": "/rustlove/static/js/runtime-main.2290cf33.js.map",
     "static/js/2.ab665e5a.chunk.js": "/rustlove/static/js/2.ab665e5a.chunk.js",
     "static/js/2.ab665e5a.chunk.js.map": "/rustlove/static/js/2.ab665e5a.chunk.js.map",
     "index.html": "/rustlove/index.html",
-    "precache-manifest.7a4758cbc842d4310bca51ea500fc5fd.js": "/rustlove/precache-manifest.7a4758cbc842d4310bca51ea500fc5fd.js",
+    "precache-manifest.0b79422e23de9241ad2f7843f246f315.js": "/rustlove/precache-manifest.0b79422e23de9241ad2f7843f246f315.js",
     "service-worker.js": "/rustlove/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/rustlove/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/rustlove/static/media/logo.25bf045c.svg"
+    "static/media/ferret.png": "/rustlove/static/media/ferret.b0700f7f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2290cf33.js",
     "static/js/2.ab665e5a.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.4fa539aa.chunk.js"
+    "static/js/main.5408bc40.chunk.js"
   ]
 }
