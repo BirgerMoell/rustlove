@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rustlove/precache-manifest.e60178aca0ba6f83d90024bc99227e1e.js"
+  "/rustlove/precache-manifest.51793fd3576de44e4702c4c488872fa1.js"
 );
 
 self.addEventListener('message', (event) => {
